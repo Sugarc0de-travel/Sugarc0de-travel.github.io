@@ -4,7 +4,7 @@ title: Ephesus - Minimalist Jekyll Theme
 keywords: ephesus, blog
 description: >-
   Ephesus - Minimalist Jekyll Theme
-lang: zh-CN
+lang: en-US
 # timezone:  Europe/Istanbul
 repo: https://github.com/onepase/Ephesus # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
@@ -15,7 +15,7 @@ discus-identifier:  XXX
 author:
   name: 最好金龟换酒
   bio: 一名九零后的旅行日记
-  picture: https://avatars.githubusercontent.com/u/16697914?v=4
+  picture: assets/images/profile.jpeg
 #  github: onepase # github username
 #  twitter: onepase # twitter username
 #  facebook: onepase # facebook username
@@ -26,7 +26,7 @@ author:
 
 
 # URL settings
-url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
+url: "https://sugarc0de-travel.github.io" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
 markdown: kramdown
