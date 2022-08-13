@@ -4,8 +4,8 @@ title: Ephesus - Minimalist Jekyll Theme
 keywords: ephesus, blog
 description: >-
   Ephesus - Minimalist Jekyll Theme
-lang: en-US
-timezone:  Europe/Istanbul
+lang: zh-CN
+# timezone:  Europe/Istanbul
 repo: https://github.com/onepase/Ephesus # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
@@ -13,16 +13,16 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
-  picture: assets/images/profile.jpg 
-  github: onepase # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  name: 最好金龟换酒
+  bio: 一名九零后的旅行日记
+  picture: https://avatars.githubusercontent.com/u/16697914?v=4
+#  github: onepase # github username
+#  twitter: onepase # twitter username
+#  facebook: onepase # facebook username
+#  instagram: onepase # instagram username
+#  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
+#  linkedin: hakantorun # linkedin username
+#  email: your-email@email.com # email adress
 
 
 # URL settings
